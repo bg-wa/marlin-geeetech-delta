@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/luigi/Downloads/Firmware_for_geeetech_rostock_mini_G2_&_G2_pro/RKMB_GT2560_G2S/Marlin
