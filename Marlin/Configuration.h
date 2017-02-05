@@ -5,7 +5,7 @@
 
 //BG=========================================================================
 
-#define CURRENT_DISTANCE_TO_BED 212
+#define CURRENT_DISTANCE_TO_BED 211.5
 
 //===========================================================================
 
@@ -376,7 +376,7 @@ const bool Z_PROBE_ENDSTOP_INVERTING = false; // set to true to invert the logic
 #define INVERT_X_DIR true // DELTA does not invert
 #define INVERT_Y_DIR true
 #define INVERT_Z_DIR true
-#define INVERT_E0_DIR true
+#define INVERT_E0_DIR false
 #define INVERT_E1_DIR false
 #define INVERT_E2_DIR false
 #define INVERT_E3_DIR false
